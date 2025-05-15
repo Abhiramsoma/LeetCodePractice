@@ -39,12 +39,12 @@ class Solution {
             }
             k--;
         }
-        if(i<0 && k>0){
+        while(i<0 && k>0){
             ans.add(arr[j]);
             j++;
             k--;
         }
-        if(j==n && k>0){
+        while(j==n && k>0){
             ans.add(arr[i]);
             i--;
             k--;
