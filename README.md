@@ -24,12 +24,22 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [2442-count-number-of-distinct-integers-after-reverse-operations](https://github.com/Abhiramsoma/LeetCodePractice/tree/main/2442-count-number-of-distinct-integers-after-reverse-operations/) | Medium |
+| [2744-find-maximum-number-of-string-pairs](https://github.com/Abhiramsoma/LeetCodePractice/tree/main/2744-find-maximum-number-of-string-pairs/) | Easy |
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [2442-count-number-of-distinct-integers-after-reverse-operations](https://github.com/Abhiramsoma/LeetCodePractice/tree/main/2442-count-number-of-distinct-integers-after-reverse-operations/) | Medium |
+| [2744-find-maximum-number-of-string-pairs](https://github.com/Abhiramsoma/LeetCodePractice/tree/main/2744-find-maximum-number-of-string-pairs/) | Easy |
 ## Counting
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [2442-count-number-of-distinct-integers-after-reverse-operations](https://github.com/Abhiramsoma/LeetCodePractice/tree/main/2442-count-number-of-distinct-integers-after-reverse-operations/) | Medium |
+## String
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [2744-find-maximum-number-of-string-pairs](https://github.com/Abhiramsoma/LeetCodePractice/tree/main/2744-find-maximum-number-of-string-pairs/) | Easy |
+## Simulation
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [2744-find-maximum-number-of-string-pairs](https://github.com/Abhiramsoma/LeetCodePractice/tree/main/2744-find-maximum-number-of-string-pairs/) | Easy |
 <!---LeetCode Topics End-->
