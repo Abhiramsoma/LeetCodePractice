@@ -23,11 +23,13 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [1207-unique-number-of-occurrences](https://github.com/Abhiramsoma/LeetCodePractice/tree/main/1207-unique-number-of-occurrences/) | Easy |
 | [2442-count-number-of-distinct-integers-after-reverse-operations](https://github.com/Abhiramsoma/LeetCodePractice/tree/main/2442-count-number-of-distinct-integers-after-reverse-operations/) | Medium |
 | [2744-find-maximum-number-of-string-pairs](https://github.com/Abhiramsoma/LeetCodePractice/tree/main/2744-find-maximum-number-of-string-pairs/) | Easy |
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [1207-unique-number-of-occurrences](https://github.com/Abhiramsoma/LeetCodePractice/tree/main/1207-unique-number-of-occurrences/) | Easy |
 | [2442-count-number-of-distinct-integers-after-reverse-operations](https://github.com/Abhiramsoma/LeetCodePractice/tree/main/2442-count-number-of-distinct-integers-after-reverse-operations/) | Medium |
 | [2744-find-maximum-number-of-string-pairs](https://github.com/Abhiramsoma/LeetCodePractice/tree/main/2744-find-maximum-number-of-string-pairs/) | Easy |
 ## Counting
