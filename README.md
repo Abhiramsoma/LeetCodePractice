@@ -25,6 +25,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0189-rotate-array](https://github.com/Abhiramsoma/LeetCodePractice/tree/main/0189-rotate-array/) | Medium |
+| [0283-move-zeroes](https://github.com/Abhiramsoma/LeetCodePractice/tree/main/0283-move-zeroes/) | Easy |
 | [1207-unique-number-of-occurrences](https://github.com/Abhiramsoma/LeetCodePractice/tree/main/1207-unique-number-of-occurrences/) | Easy |
 | [2442-count-number-of-distinct-integers-after-reverse-operations](https://github.com/Abhiramsoma/LeetCodePractice/tree/main/2442-count-number-of-distinct-integers-after-reverse-operations/) | Medium |
 | [2744-find-maximum-number-of-string-pairs](https://github.com/Abhiramsoma/LeetCodePractice/tree/main/2744-find-maximum-number-of-string-pairs/) | Easy |
@@ -50,4 +51,5 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0189-rotate-array](https://github.com/Abhiramsoma/LeetCodePractice/tree/main/0189-rotate-array/) | Medium |
+| [0283-move-zeroes](https://github.com/Abhiramsoma/LeetCodePractice/tree/main/0283-move-zeroes/) | Easy |
 <!---LeetCode Topics End-->
