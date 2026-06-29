@@ -6,6 +6,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0189-rotate-array](https://github.com/Abhiramsoma/LeetCodePractice/tree/main/0189-rotate-array/) | Medium |
 | [0509-fibonacci-number](https://github.com/Abhiramsoma/LeetCodePractice/tree/main/0509-fibonacci-number/) | Easy |
 | [2442-count-number-of-distinct-integers-after-reverse-operations](https://github.com/Abhiramsoma/LeetCodePractice/tree/main/2442-count-number-of-distinct-integers-after-reverse-operations/) | Medium |
 ## Dynamic Programming
@@ -23,6 +24,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0189-rotate-array](https://github.com/Abhiramsoma/LeetCodePractice/tree/main/0189-rotate-array/) | Medium |
 | [1207-unique-number-of-occurrences](https://github.com/Abhiramsoma/LeetCodePractice/tree/main/1207-unique-number-of-occurrences/) | Easy |
 | [2442-count-number-of-distinct-integers-after-reverse-operations](https://github.com/Abhiramsoma/LeetCodePractice/tree/main/2442-count-number-of-distinct-integers-after-reverse-operations/) | Medium |
 | [2744-find-maximum-number-of-string-pairs](https://github.com/Abhiramsoma/LeetCodePractice/tree/main/2744-find-maximum-number-of-string-pairs/) | Easy |
@@ -44,4 +46,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [2744-find-maximum-number-of-string-pairs](https://github.com/Abhiramsoma/LeetCodePractice/tree/main/2744-find-maximum-number-of-string-pairs/) | Easy |
+## Two Pointers
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0189-rotate-array](https://github.com/Abhiramsoma/LeetCodePractice/tree/main/0189-rotate-array/) | Medium |
 <!---LeetCode Topics End-->
